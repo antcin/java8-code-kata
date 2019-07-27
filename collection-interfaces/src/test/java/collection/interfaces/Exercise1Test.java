@@ -33,6 +33,7 @@ public class Exercise1Test extends ClassicOnlineStore {
          */
         Consumer<Object> consumer = null;
         // customerIterable.
+        customerIterable.forEach(customer -> nameList.add(customer.getName()));
 
         assertThat(nameList.toString(), is("[Joe, Steven, Patrick, Diana, Chris, Kathy, Alice, Andrew, Martin, Amy]"));
     }
