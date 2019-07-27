@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf3e528-debf-46d8-af5b-c7beef9ca482" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/collection-interfaces/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/collection-interfaces/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/date-and-time-api/target/" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Exercise1Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Exercise1Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="35" column="76" selection-start-line="35" selection-start-column="76" selection-end-line="35" selection-end-column="76" />
+            <state relative-caret-position="251">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection-interfaces/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
@@ -86,9 +85,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/collection-interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java" />
       </list>
     </option>
   </component>
@@ -369,13 +368,13 @@
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32938564" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.096225016" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32893" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32893" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32893" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24944486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -408,13 +407,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="35" column="76" selection-start-line="35" selection-start-column="76" selection-end-line="35" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="326">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -428,10 +424,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/collection-interfaces/pom.xml">
+    <entry file="file://$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="251">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
