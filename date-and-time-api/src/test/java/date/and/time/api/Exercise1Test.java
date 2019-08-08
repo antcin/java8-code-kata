@@ -20,7 +20,7 @@ public class Exercise1Test {
         /**
          * Create a {@link LocalDate} of 2015-06-18 by using {@link LocalDate#of}
          */
-        LocalDate localDate = null;
+        LocalDate localDate = LocalDate.of(2015, 06, 18);
 
         assertThat(localDate.toString(), is("2015-06-18"));
     }
@@ -30,7 +30,7 @@ public class Exercise1Test {
         /**
          * Create a {@link LocalDate} of 2015-06-18 from String by using {@link LocalDate#parse}
          */
-        LocalDate localDate = null;
+        LocalDate localDate = LocalDate.parse("2015-06-2018");
 
         assertThat(localDate.toString(), is("2015-06-18"));
     }
@@ -43,7 +43,7 @@ public class Exercise1Test {
          * Create a {@link LocalDate} from {@link ld} with year 2015
          * by using {@link LocalDate#withYear} or {@link LocalDate#with}
          */
-        LocalDate localDate = null;
+        LocalDate localDate = ld.withYear(2015);
 
         assertThat(localDate.getYear(), is(2015));
         assertThat(localDate.getMonth(), is(ld.getMonth()));
