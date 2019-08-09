@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf3e528-debf-46d8-af5b-c7beef9ca482" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/date-and-time-api/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -58,20 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise2Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercise2Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="141" column="63" selection-start-line="141" selection-start-column="63" selection-end-line="141" selection-end-column="63" />
+            <state relative-caret-position="376">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collection-interfaces/pom.xml">
+      <file leaf-file-name="Exercise3Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="278">
+              <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -130,6 +128,7 @@
         <option value="$PROJECT_DIR$/collection-interfaces/src/test/java/collection/interfaces/Exercise2Test.java" />
         <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise1Test.java" />
         <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java" />
+        <option value="$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java" />
       </list>
     </option>
   </component>
@@ -268,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Exercise2Test.localTimeMinusDuration">
+  <component name="RunManager" selected="JUnit.Exercise3Test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -318,29 +317,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Exercise2Test.localTimeParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="date-and-time-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="date.and.time.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="date.and.time.api" />
-      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise2Test" />
-      <option name="METHOD_NAME" value="localTimeParse" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="Exercise2Test.localTimePlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="date-and-time-api" />
       <extension name="coverage">
@@ -364,7 +340,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Exercise2Test.localTimeWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="date-and-time-api" />
       <extension name="coverage">
         <pattern>
@@ -375,8 +351,31 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="date.and.time.api" />
-      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise2Test" />
-      <option name="METHOD_NAME" value="localTimeWith" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise3Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Exercise3Test.localDateTimeOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="date-and-time-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date.and.time.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="date.and.time.api" />
+      <option name="MAIN_CLASS_NAME" value="date.and.time.api.Exercise3Test" />
+      <option name="METHOD_NAME" value="localDateTimeOf" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -480,19 +479,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Exercise2Test.localTimeParse" />
-      <item itemvalue="JUnit.Exercise2Test.localTimeWith" />
       <item itemvalue="JUnit.Exercise2Test.localTimePlus" />
       <item itemvalue="JUnit.Exercise2Test.localTimeMinus" />
       <item itemvalue="JUnit.Exercise2Test.localTimeMinusDuration" />
+      <item itemvalue="JUnit.Exercise3Test.localDateTimeOf" />
+      <item itemvalue="JUnit.Exercise3Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Exercise3Test" />
+        <item itemvalue="JUnit.Exercise3Test.localDateTimeOf" />
         <item itemvalue="JUnit.Exercise2Test.localTimeMinusDuration" />
         <item itemvalue="JUnit.Exercise2Test.localTimeMinus" />
         <item itemvalue="JUnit.Exercise2Test.localTimePlus" />
-        <item itemvalue="JUnit.Exercise2Test.localTimeWith" />
-        <item itemvalue="JUnit.Exercise2Test.localTimeParse" />
       </list>
     </recent_temporary>
   </component>
@@ -510,9 +509,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise1Test_localDateIsAfter - 2019.08.09 at 16h 04m 26s.xml">
-      <configuration name="Exercise1Test.localDateIsAfter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise1Test_localDateUntil - 2019.08.09 at 16h 04m 44s.xml">
       <configuration name="Exercise1Test.localDateUntil" configurationId="JUnit" />
     </history-entry>
@@ -539,6 +535,9 @@
     </history-entry>
     <history-entry file="Exercise2Test_localTimeMinusDuration - 2019.08.09 at 16h 15m 45s.xml">
       <configuration name="Exercise2Test.localTimeMinusDuration" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise3Test_localDateTimeOf - 2019.08.09 at 17h 32m 34s.xml">
+      <configuration name="Exercise3Test.localDateTimeOf" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -770,8 +769,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="141" column="63" selection-start-line="141" selection-start-column="63" selection-end-line="141" selection-end-column="63" />
+        <state relative-caret-position="376">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-and-time-api/src/test/java/date/and/time/api/Exercise3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="111" column="51" selection-start-line="111" selection-start-column="51" selection-end-line="111" selection-end-column="51" />
         </state>
       </provider>
     </entry>
