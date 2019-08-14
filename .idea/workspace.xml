@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caf3e528-debf-46d8-af5b-c7beef9ca482" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/date-and-time-api/target/" />
     <ignored path="$PROJECT_DIR$/collection-interfaces/target/" />
@@ -66,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exercise5Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Exercise5Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="88" column="43" lean-forward="true" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
+            <state relative-caret-position="1200">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exercise6Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -89,15 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collection-interfaces/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="37" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -142,6 +142,7 @@
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise3Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise4Test.java" />
         <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java" />
+        <option value="$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java" />
       </list>
     </option>
   </component>
@@ -558,9 +559,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Exercise4Test_zonedDateTimeFormat - 2019.08.14 at 21h 31m 12s.xml">
-      <configuration name="Exercise4Test.zonedDateTimeFormat" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Exercise4Test - 2019.08.14 at 21h 34m 58s.xml">
       <configuration name="Exercise4Test" configurationId="JUnit" />
     </history-entry>
@@ -587,6 +585,9 @@
     </history-entry>
     <history-entry file="Exercise4Test_(1) - 2019.08.14 at 22h 26m 17s.xml">
       <configuration name="Exercise4Test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Exercise5Test_(1) - 2019.08.14 at 22h 36m 45s.xml">
+      <configuration name="Exercise5Test (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -951,8 +952,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise5Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="88" column="43" lean-forward="true" selection-start-line="88" selection-start-column="43" selection-end-line="88" selection-end-column="43" />
+        <state relative-caret-position="1200">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stream-api/src/test/java/stream/api/Exercise6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
         </state>
       </provider>
     </entry>
